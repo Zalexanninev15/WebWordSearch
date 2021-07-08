@@ -13,8 +13,7 @@ Search for a word or symbol from different sites
 ## Usage
 
 1. Insert links to search sites to file **urls.txt**
-2. Do the following in the terminal
-
+2. Do the following in terminal
 ```bash
 pip install -r requirements.txt
 python ./wws.py
