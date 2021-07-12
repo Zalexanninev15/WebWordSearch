@@ -1,5 +1,5 @@
-# Searc for a word or symbol on the sites specified in the text file.
-# Copyright (C) 2021  Max Shabarchin
+# Search for a word or symbol on the sites specified in the text file.
+# Copyright (C) 2021 Zalexanninev15
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -18,7 +18,7 @@ import requests
 from bs4 import BeautifulSoup
 
 print('''
-WebWordSearch  Copyright (C) 2021  Max Shabarchin
+WebWordSearch  Copyright (C) 2021  Zalexanninev15
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
 under certain conditions.
