@@ -17,6 +17,13 @@
 import requests
 from bs4 import BeautifulSoup
 
+print('''
+WebWordSearch  Copyright (C) 2021  Max Shabarchin
+This program comes with ABSOLUTELY NO WARRANTY.
+This is free software, and you are welcome to redistribute it
+under certain conditions.
+''')
+
 with open("urls.txt") as file:
     url_list = [row.strip() for row in file]
 print('WebWordSearch v1.0 by Zalexanninev15 | GPL-3.0 License')
