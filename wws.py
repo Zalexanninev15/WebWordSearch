@@ -17,18 +17,14 @@
 import requests
 from bs4 import BeautifulSoup
 
-print('''
-WebWordSearch  Copyright (C) 2021  Zalexanninev15
+print('''WebWordSearch  Copyright (C) 2021  Zalexanninev15
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
 under certain conditions.
 ''')
-
 with open("urls.txt") as file:
     url_list = [row.strip() for row in file]
-print('WebWordSearch v1.0 by Zalexanninev15 | GPL-3.0 License')
-print('Enter a search word:')
-the_word = input()
+the_word = input('WebWordSearch v1.0.1 by Zalexanninev15\nWord for search: ')
 total_words = []
 for url in url_list:
     r = requests.get(url, allow_redirects=False)
@@ -39,4 +35,4 @@ for url in url_list:
     for word in words:
         total_words.append(word.strip())
     print('\nURL: {}\nMatches: {}'.format(url, count))
-print('\nTotal matches: {}'.format(len(total_words)))
+    print('\nTotal matches: {}'.format(len(total_words)))
