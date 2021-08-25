@@ -12,7 +12,7 @@
 
 ## Description
 
-A Python script for searching for a word or symbol on the sites specified in the text file. Outputs the number of matches on each page to the console, and also displays the total number of matches at the end of the search
+Script for searching for a word or symbol on the sites specified in the text file. Outputs the number of matches on each page to the console, and also displays the total number of matches at the end of the search
 
 ## Usage
 
