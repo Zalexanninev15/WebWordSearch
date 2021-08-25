@@ -20,11 +20,10 @@ from bs4 import BeautifulSoup
 print('''WebWordSearch  Copyright (C) 2021  Zalexanninev15
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
-under certain conditions.
-''')
+under certain conditions.''')
 with open("urls.txt") as file:
     url_list = [row.strip() for row in file]
-the_word = input('WebWordSearch v1.0.1 by Zalexanninev15\nWord for search: ')
+the_word = input('\nWebWordSearch v1.0.2 by Zalexanninev15\nWord for search: ')
 total_words = []
 for url in url_list:
     r = requests.get(url, allow_redirects=False)
