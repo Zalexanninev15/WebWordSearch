@@ -1,4 +1,4 @@
-# A Python script for searching for a word or symbol on the sites specified in the text file
+# Script for searching for a word or symbol on the sites specified in the text file
 # Copyright (C) 2021 Zalexanninev15
 
 # This program is free software: you can redistribute it and/or modify
