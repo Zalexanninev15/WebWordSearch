@@ -1,7 +1,7 @@
 # WebWordSearch
 
 [![](https://img.shields.io/badge/platforms-All_with_Python-orange.svg)](https://github.com/Zalexanninev15/WebWordSearch)
-[![](https://img.shields.io/badge/release-v1.0-blue.svg)](https://github.com/Zalexanninev15/WebWordSearch)
+[![](https://img.shields.io/badge/release-v1.0.2-blue.svg)](https://github.com/Zalexanninev15/WebWordSearch)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/WebWordSearch.svg)](https://github.com/Zalexanninev15/WebWordSearch/commits/master)
 [![](https://img.shields.io/github/stars/Zalexanninev15/WebWordSearch.svg)](https://github.com/Zalexanninev15/WebWordSearch/stargazers)
 [![](https://img.shields.io/github/forks/Zalexanninev15/WebWordSearch.svg)](https://github.com/Zalexanninev15/WebWordSearch/network/members)
