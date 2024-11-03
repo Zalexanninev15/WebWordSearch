@@ -1,5 +1,5 @@
 # Script for searching for a word or symbol on the sites specified in the text file
-# Copyright (C) 2021 Zalexanninev15
+# Copyright (C) 2021-2025 Zalexanninev15
 
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
