@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/written_on-Python-%233776AB.svg?logo=python)](https://github.com/Zalexanninev15/WebWordSearch)
 [![](https://img.shields.io/badge/release-v1.0.2-blue.svg)](https://github.com/Zalexanninev15/WebWordSearch)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/WebWordSearch.svg)](https://github.com/Zalexanninev15/WebWordSearch/commits/main)
-[![](https://img.shields.io/github/stars/Zalexanninev15/WebWordSearch.svg)](https://github.com/Zalexanninev15/WebWordSearch/stargazers)
+[![](https://img.shields.io/github/stars/Zalexanninev15/WebWordSearch)](https://github.com/Zalexanninev15/WebWordSearch/stargazers)
 [![](https://img.shields.io/github/forks/Zalexanninev15/WebWordSearch.svg)](https://github.com/Zalexanninev15/WebWordSearch/network/members)
 [![](https://img.shields.io/github/issues/Zalexanninev15/WebWordSearch.svg)](https://github.com/Zalexanninev15/WebWordSearch/issues?q=is%3Aopen+is%3Aissue)
 [![](https://img.shields.io/github/issues-closed/Zalexanninev15/WebWordSearch.svg)](https://github.com/Zalexanninev15/WebWordSearch/issues?q=is%3Aissue+is%3Aclosed)
